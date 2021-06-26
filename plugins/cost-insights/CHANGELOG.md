@@ -1,5 +1,11 @@
 # @backstage/plugin-cost-insights
 
+## 0.11.1
+
+### Patch Changes
+
+- 0b4d00687: Replaced moment and dayjs with Luxon
+
 ## 0.11.0
 
 ### Minor Changes

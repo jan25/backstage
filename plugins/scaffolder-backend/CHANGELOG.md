@@ -1,5 +1,11 @@
 # @backstage/plugin-scaffolder-backend
 
+## 0.12.4
+
+### Patch Changes
+
+- 1627daac2: Fix `catalog:write` on windows systems
+
 ## 0.12.3
 
 ### Patch Changes
